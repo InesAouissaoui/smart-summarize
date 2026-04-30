@@ -1,6 +1,9 @@
 # SmartSummarize
 
 AI-powered document summarizer using Facebook's BART-large-CNN transformer model.
+## 📸 Demo
+
+![Project Name Demo](Screenshot.png)
 
 ## Features
 
